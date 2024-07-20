@@ -32,6 +32,6 @@
 
 首先下载 [BetterDisplay](https://github.com/waydabber/BetterDisplay/releases)，然后打开软件。
 
-按快捷键 `command + ,` 打开设置页面，左侧选择 `键盘`，右侧打开`使用原生亮度键进行亮度控制`，如下图所示：
+按快捷键 `command ,` 打开设置页面，左侧选择 `键盘`，右侧打开`使用原生亮度键进行亮度控制`，如下图所示：
 
 <img src='./images/4.png' height="300"/>
