@@ -8,7 +8,7 @@
 
 （这一步，解决了屏幕刺眼问题。）
 
-<img src='./images/1.png'/>
+<img src='./images/1.png' height="300"/>
 
 ## 二、微调色域
 
@@ -16,7 +16,7 @@
 
 （这一步，解决了屏幕发黄问题。）
 
-<img src='./images/2.png'/>
+<img src='./images/2.png' height="300"/>
 
 ## 三、调整对比度
 
@@ -26,7 +26,7 @@
 
 （这一步，解决了屏幕整体色域颜色对比不明显的问题）
 
-<img src='./images/3.png'/>
+<img src='./images/3.png' height="300"/>
 
 ## 四、支持键盘控制亮度
 
@@ -34,5 +34,4 @@
 
 按快捷键 `command + ,` 打开设置页面，左侧选择 `键盘`，右侧打开`使用原生亮度键进行亮度控制`，如下图所示：
 
-
-<img src='./images/4.png'/>
+<img src='./images/4.png' height="300"/>
