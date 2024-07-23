@@ -39,6 +39,6 @@ open the `BetterDisplay`, select `Image Adjustments`，unselect the `GPU Ditheri
 So far, the new MBP mini led screen has been tuned to a level that allows for long-term text work. The MacBook Pro series can be a better choice as it is no longer too yellow, tired, or dazzling.
 
 ## Reference
-- [i-disabled-dithering-on-apple-silicon-introducing-stillcolor-macos-m1m2m3](https://ledstrain.org/d/2686-i-disabled-dithering-on-apple-silicon-introducing-stillcolor-macos-m1m2m3)
-- [[知乎maximus] - 缓解 macbook pro 14 16 miniLED SDR 屏幕 辣眼 累眼 的办法](https://zhuanlan.zhihu.com/p/668744338)
-- [GitHub issue - BetterDisplay support GPU dithering switch](https://github.com/waydabber/BetterDisplay/issues/2766)
+- [[ledstrain] i-disabled-dithering-on-apple-silicon-introducing-stillcolor-macos-m1m2m3](https://ledstrain.org/d/2686-i-disabled-dithering-on-apple-silicon-introducing-stillcolor-macos-m1m2m3)
+- [[知乎maximus] 缓解 macbook pro 14 16 miniLED SDR 屏幕 辣眼 累眼 的办法](https://zhuanlan.zhihu.com/p/668744338)
+- [[GitHub issue] BetterDisplay support GPU dithering switch](https://github.com/waydabber/BetterDisplay/issues/2766)
